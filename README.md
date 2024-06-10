@@ -20,7 +20,7 @@
 - Grove Rotary Angle Sensor(回転角度)
 - Grove PIR Motion Sensor(動きを検知)
 
-## 使用言語, ライブラリ
+## 使用言語など
 - Arduino
 - Python
  - Flask
