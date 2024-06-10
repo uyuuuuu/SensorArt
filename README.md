@@ -23,7 +23,7 @@
 ## 使用言語など
 - Arduino
 - Python
- - Flask
+- Flask
 - Java Script
 - GLSL
 - HTML
@@ -40,4 +40,4 @@
 
 
 ## 動作例
-<video src="https://drive.google.com/file/d/1fV36zJB3zyy30MrnYjZlkL4gcRidTe2v/view?usp=sharing" controls="true" width="600"></video>
+[GoogleDrive](https://drive.google.com/file/d/1fV36zJB3zyy30MrnYjZlkL4gcRidTe2v/view?usp=drive_link)
